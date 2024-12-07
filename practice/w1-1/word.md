@@ -3,3 +3,8 @@ traceId:0xa0e2731c70b34a30ae17da75b5a425f3ee4d3e2784aeb9704988a79c50c9ae14
 淘宝购买1SepoliaETH至账户0xB977c18715067B7b1acb31897a722C61909c0315
 
 转账至0xD695D87002cc822Bac0E4462f9EF0cEAB3ceAB12
+
+
+也可以在这个网站https://console.optimism.io/faucet 注册，关联github，填写钱包地址
+
+Transaction Hash:0x80ef7ca55dac68ab2e561c3d7fa839e39670d325de55dece73451f462e810641
